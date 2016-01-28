@@ -74,6 +74,9 @@ header.carousel .fill {
     background-size: cover;
 }
 
+.panel-heading{
+    text-align: center;
+}
 /* 404 Page Styles */
 
 .error-404 {
