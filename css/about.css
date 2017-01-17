@@ -44,7 +44,7 @@ body {
 }
 .section-lead{
     text-align: center;
-    
+
 }
 .container-about{
     padding-left:250px;
@@ -93,6 +93,7 @@ section {
 .section-heading {
     margin: 30px 0;
     font-size: 4em;
+    font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .section-lead {
